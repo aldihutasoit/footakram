@@ -1,0 +1,214 @@
+*{
+	padding: 0;
+	margin: 0;
+    font-family: sans-serif; }
+body {
+    
+    background-color: #3cc47c;
+    color: #1e392a;
+    line-height: 1;
+}
+.header{
+    padding: 80px;
+    background-color: #3cc47c;
+}
+.header ul li {
+    padding: 30px;
+    list-style-type: none;
+    
+}
+.container h1 a {
+    font-size: 70px;
+    padding: 70px;
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+.header h1 a{
+    color: #1e392a;
+    
+   
+}
+.header ul li a {
+    color: #1e392a;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+}
+.header ul li a:hover{
+    
+    background: #ffa500;
+    box-shadow: 0px 6px 6px 0px black;
+}
+.index {
+    background-image: url(../img/background4.jpg);
+    padding-left: 20%;
+}
+.container .page1 {
+    background-image: url(../img/background1.jpg);
+}
+
+.home {
+    padding: 5px;
+    
+}
+.home a {
+    
+    text-decoration: none;
+    color: white;
+}
+
+.home a img{
+    position: relative;
+    left: 10%;
+    padding: 10px;
+    width: 40% ;
+}
+
+ 
+.berita1 a p {
+    position: relative;
+    margin-bottom: 50px;
+    text-align: center;  
+    right: 300px;
+}
+.pesepakbola{ 
+    background-image: url(../img/background2.png);
+    
+
+}
+.terkaya1 {
+    font-family: sans-serif;
+    padding: 30px;
+	width : 900px;
+	margin : auto;
+    background-color: #fff ;
+	font: 14px/20px sans-serif; 
+}
+
+.content .penulis {
+	font-size: 10px;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+.content .penulis a {
+	color: salmon;
+	text-decoration: none;
+}
+.content  p {
+    margin: 10px;
+}
+
+.penjelasan1 {
+    font: sans-serif;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.page1{
+    background-color: #3cc47c;
+    background-repeat: repeat-x;
+    background-image: url(../img/background3.jpg);
+}
+.page1 img{
+    size: 15%;
+    size: 100%;
+    
+}
+.page1 ul li a {
+    padding: 20px;
+    font-size: 40px;
+    text-decoration: none;
+    position: relative;
+    bottom: 500px;
+    color: #ffa500;
+    
+}
+.page1 ul li a:hover {
+    background: #1e392a;
+    box-shadow: 0px 6px 6px 0px black;
+}
+
+.quetes {
+    font-size: 20px;
+    color: #ffa500;
+    position: relative;
+    bottom: 350px;
+}
+.about {
+    padding: 500px;
+    color: white;
+    font-family: sans-serif;
+    background-image: url(../img/background2.png);
+    
+}
+.about a{
+    font-size: 50px;
+    top: 30px;
+    position: relative;
+    left: 400px;
+    color: #ffa500;
+    text-decoration: none;
+    
+}
+
+.footer {
+	background-color:  #3cc47c;
+	padding : 30px;
+}
+
+.footer	.copy {
+    font-family: sans-serif;
+    color: #1e392a;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+
+.komentar1 a{
+	text-decoration: none;
+	background-color:#1e392a;
+	border-radius:20px;
+	display:inline-block;
+	cursor:pointer;
+	font-family:Arial;
+	font-size:12px;
+	padding:7px 21px;
+}
+.komentar1 input{
+	border-radius:20px;
+	border:1px solid #1e392a;;
+	display:inline-block;
+	cursor:pointer;
+	color:#1e392a;;
+	font-family:Arial;
+	font-size:12px;
+	padding:7px 21px;
+}
+
+.komentar1 input{
+	width :17%;
+	border: none;
+	border-bottom:1px solid#1e392a; ;
+	padding: 2px;
+}
+
+.komentar {
+    font-family: sans-serif;
+	width : 900px;
+	margin : auto;
+    font: 14px/20px sans-serif; 
+}
+
+.tombolkembali a{
+    
+    color: black;
+    font-size: 50px;
+}
+.tombolkembali {
+    padding: 90px;
+    margin: 10px;
+}
+.tombolkembali a:hover {
+    box-shadow: 0px 6px 6px 0px black;
+}
